@@ -84,7 +84,7 @@
     "@changesets/cli": "2.22.0",
     "bob-the-bundler": "2.0.0",
     "husky": "8.0.1",
-    "lint-staged": "12.5.0",
+    "lint-staged": "13.0.3",
     "eslint": "8.16.0",
     "eslint-config-prettier": "8.5.0",
     "@typescript-eslint/eslint-plugin": "5.27.0",
